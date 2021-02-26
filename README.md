@@ -1,2 +1,3 @@
-# FuzzyTelegramPHPWebAppCourse
-Course CI/CD using AWS CodePipeline &amp; Elastic Beanstalk by Ali Rizavi
+# Fuzzy Telegram
+*A simple vanilla PHP web application displaying random quote of the day.*
+
